@@ -36,7 +36,7 @@
         "gn:id":7576089
     },
     "wof:country":"KI",
-    "wof:geomhash":"87b4e5d3fc36eba04cd4dbcae1a03fe1",
+    "wof:geomhash":"b909925f38ce4b43a92b23a74b659455",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -61,5 +61,5 @@
     -174.12613000000005,
     -3.59534
 ],
-  "geometry": {"coordinates":[-174.12613000000005,-3.59534],"type":"Point"}
+  "geometry": {"coordinates":[-174.12613,-3.59534],"type":"Point"}
 }

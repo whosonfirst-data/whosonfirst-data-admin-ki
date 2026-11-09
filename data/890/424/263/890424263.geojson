@@ -66,7 +66,7 @@
     },
     "wof:country":"KI",
     "wof:created":1469051536,
-    "wof:geomhash":"4cb38c61250f433ff50f4655b2b015fc",
+    "wof:geomhash":"a6f2d039047bd725c10ee6f6b0271464",
     "wof:hierarchy":[
         {
             "country_id":85632709,
@@ -91,5 +91,5 @@
     175.98072,
     -1.32957
 ],
-  "geometry": {"coordinates":[175.98071999999999,-1.32957],"type":"Point"}
+  "geometry": {"coordinates":[175.98072,-1.32957],"type":"Point"}
 }

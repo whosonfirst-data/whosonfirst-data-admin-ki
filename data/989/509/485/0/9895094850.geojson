@@ -1,0 +1,75 @@
+{
+  "id": 9895094850,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.984,1.42,172.984,1.42",
+    "geom:latitude":1.42,
+    "geom:longitude":172.984,
+    "gn:population":83683,
+    "iso:country":"KI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 2110215 (Gilbert Islands): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2110215"
+        },
+        {
+            "citation":"GeoNames division 2110215 (Gilbert Islands): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2110215"
+        },
+        {
+            "citation":"GeoNames division 2110215 (Gilbert Islands): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2110215"
+        },
+        {
+            "citation":"GeoNames division 2110215 (Gilbert Islands): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/2110215"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gilbert Islands"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632709,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110215
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"53544cbef6d128362f5af868025aafa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "region_id":9895094850
+        }
+    ],
+    "wof:id":9895094850,
+    "wof:lastmodified":1795802322,
+    "wof:name":"Gilbert Islands",
+    "wof:parent_id":85632709,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.984,
+    1.42,
+    172.984,
+    1.42
+],
+  "geometry": {"coordinates":[172.984,1.42],"type":"Point"}
+}

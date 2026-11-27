@@ -1,0 +1,75 @@
+{
+  "id": 9895094852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.678,-2.808,-171.678,-2.808",
+    "geom:latitude":-2.808,
+    "geom:longitude":-171.678,
+    "gn:population":41,
+    "iso:country":"KI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7521379 (Phoenix Islands): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7521379"
+        },
+        {
+            "citation":"GeoNames division 7521379 (Phoenix Islands): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7521379"
+        },
+        {
+            "citation":"GeoNames division 7521379 (Phoenix Islands): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7521379"
+        },
+        {
+            "citation":"GeoNames division 7521379 (Phoenix Islands): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7521379"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Phoenix Islands"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632709,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521379
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"d9ba2225ac930bfcca927d0586d9486b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "region_id":9895094852
+        }
+    ],
+    "wof:id":9895094852,
+    "wof:lastmodified":1795802322,
+    "wof:name":"Phoenix Islands",
+    "wof:parent_id":85632709,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.678,
+    -2.808,
+    -171.678,
+    -2.808
+],
+  "geometry": {"coordinates":[-171.678,-2.808],"type":"Point"}
+}
